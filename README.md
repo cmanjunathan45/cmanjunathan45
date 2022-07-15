@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Manjunathan C
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning my final year bachelor's in computer science
+- 👀 Interested in Cyber Security
 - 💞️ I’m looking for job in cyber secuirty
 - 📫 Contact me @cmanjunathan20@gmail.com
 
